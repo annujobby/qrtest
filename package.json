@@ -1,0 +1,28 @@
+{
+  "name": "trustybytes-email-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abishek-Lakshmanan/TrustyBytes-email-services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abishek-Lakshmanan/TrustyBytes-email-services/issues"
+  },
+  "homepage": "https://github.com/Abishek-Lakshmanan/TrustyBytes-email-services#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-validator": "^6.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
